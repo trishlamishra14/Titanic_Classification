@@ -4,7 +4,9 @@ Aim- To predict the survival chances of the Titanic passengers using the given i
 There will be three main steps in this experiment:
 
 1)Feature Engineering
-2) Imputation
+
+2)Imputation
+
 3)Training and Prediction
 
 
